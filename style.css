@@ -1,7 +1,56 @@
-h2{text-align: center;
+body {
+  background-color: #ffffff
+}
+h1 {
+  width: 600px;
+  height: 100px;
+  border-style: dashed;
+  border-width: 5px;
+  text-align: center;
+  margin: auto;
+  padding-top: 30px;
+  background-color: yellow;
+}
+h2{
+  text-align: center;
   color: blue;
 }
 img{
   width: 150px;
   length:150px;
+}
+#section1 {
+  float: right;
+  width: 500px;
+  border-style: solid;
+  border-width:5px;
+  text-align: center;
+  background-color: #bcf0f4;
+
+}
+#section2 {
+  float: left;
+  width: 500px;
+  border-style: solid;
+  border-width: 5px;
+  text-align: center;
+  background-color: #bcf0f4;
+
+}
+#section3 {
+  width: 400px;
+  border-style: solid;
+  border-width: 5px;
+  text-align: center;
+  background-color: #bcf0f4;
+  margin-top: : 200px;
+  margin-left: 400px;
+
+}
+h3 {
+  text-decoration: underline;
+  background-color: white;
+}
+a {text-decoration: none;
+color: blue;
 }
